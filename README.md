@@ -16,10 +16,12 @@ MAVEN_HOME = Path to maven installation
 For Windows Edit Path System variable
 Add %M2_HOME%\bin
 Add directory to your chromedriver.exe
+
 Software preparatation
+  
   $ mkdir aut-tests
-      git clone https://github.com/mahalakshmibalaraman/RBS_Automationpractice.git
-      mvn clean test
+  git clone https://github.com/mahalakshmibalaraman/RBS_Automationpractice.git
+  mvn clean test
  
 Framework Overview:
 
